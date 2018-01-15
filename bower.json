@@ -11,8 +11,11 @@
     "package.json"
   ],
   "dependencies": {
-    "d2l-colors": "^2.2.3",
-    "d2l-typography": "^5.3.0",
-    "polymer": "^1.7.0"
+    "d2l-colors": "^3.1.2",
+    "d2l-typography": "^6.1.2",
+    "polymer": "^1.11.1"
+  },
+  "resolutions": {
+    "webcomponentsjs": "^0.7.24"
   }
 }
