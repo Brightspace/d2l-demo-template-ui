@@ -1,3 +1,5 @@
+> **Deprecated**: this repository is no longer being maintained. To demo your components, please use `iron-demo-helpers` and follow the [Polymer Documentation](https://www.polymer-project.org/2.0/docs/tools/documentation).
+
 # d2l-demo-template
 [![Bower version][bower-image]][bower-url]
 [![Build status][ci-image]][ci-url]
